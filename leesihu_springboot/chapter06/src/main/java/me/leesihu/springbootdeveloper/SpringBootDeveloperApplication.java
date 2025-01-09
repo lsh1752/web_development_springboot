@@ -25,7 +25,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
             웹의 장점을 최대한 활용하는 형태라고 알려진 REST API
-                Representational State Transger를ㄹ 줄인 표현으로, 자원을 이름으로 구분해 자원의 상태를 주고 받는 API 방식
+                Representational State Transger를 줄인 표현으로, 자원을 이름으로 구분해 자원의 상태를 주고 받는 API 방식
 
                 URL의 설계 방식
 
