@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0715d91-3f99-4cc5-aee9-5bd74663a371" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/SpringBootDeveloperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/controller/BlogApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/controller/BlogViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/controller/ExampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/domain/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/AddArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/ArticleListViewResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/ArticleResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/UpdateArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/templates/articleList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/templates/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/java/controller/BlogApiControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/java/springbootdeveloper/MemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/resources/insert-members.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/service/BlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/test/java/me/ahngeunsu/springbootdeveloper/controller/BlogApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/test/java/me/ahngeunsu/springbootdeveloper/controller/BlogApiControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/controller/BlogApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/controller/BlogApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/domain/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/service/BlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/test/java/me/leesihu/springbootdeveloper/controller/BlogApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/test/java/me/leesihu/springbootdeveloper/controller/BlogApiControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web_development_springboot" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rQphe6yLqPB7qbzY7ugnHAlrZW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/leesihu/leesihu_spring_boot_2",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0715d91-3f99-4cc5-aee9-5bd74663a371" name="Changes" comment="" />
+      <created>1736501274022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736501274022</updated>
+    </task>
+    <servers />
+  </component>
+</project>
