@@ -13,16 +13,16 @@
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/SpringBootDeveloperApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/TestController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/controller/BlogApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/controller/BlogViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/controller/ExampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/domain/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/AddArticleRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/ArticleListViewResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/ArticleResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/dto/UpdateArticleRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/controller/BlogApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/controller/BlogViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/controller/ExampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/domain/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/AddArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/ArticleListViewResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/ArticleResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/service/BlogService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/data.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/static/index.html" afterDir="false" />
