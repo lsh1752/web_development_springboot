@@ -32,14 +32,15 @@
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/java/springbootdeveloper/MemberRepositoryTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/resources/insert-members.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_development_springboot" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/service/BlogService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/test/java/me/ahngeunsu/springbootdeveloper/controller/BlogApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/test/java/me/ahngeunsu/springbootdeveloper/controller/BlogApiControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/controller/BlogApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/controller/BlogApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/domain/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/dto/UpdateArticleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/main/java/me/leesihu/springbootdeveloper/service/BlogService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/test/java/me/leesihu/springbootdeveloper/controller/BlogApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leesihu_springboot/chapter06/src/test/java/me/leesihu/springbootdeveloper/controller/BlogApiControllerTest.java" afterDir="false" />
     </list>
@@ -59,16 +60,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/leesihu/leesihu_spring_boot_2",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/leesihu/leesihu_spring_boot_2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
