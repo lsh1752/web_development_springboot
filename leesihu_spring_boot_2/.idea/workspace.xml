@@ -20,14 +20,18 @@
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/AddArticleRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/ArticleListViewResponse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/ArticleResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/ArticleViewResponse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/repository/BlogRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/java/me/ahngensu/springbootdeveloper/service/BlogService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/js/article.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/templates/article.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/templates/articleList.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/templates/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/main/resources/templates/newArticle.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/java/controller/BlogApiControllerTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/java/springbootdeveloper/MemberRepositoryTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter07/src/test/resources/application.yml" afterDir="false" />
