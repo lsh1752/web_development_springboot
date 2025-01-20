@@ -130,6 +130,64 @@
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter09_modified/src/test/java/me/ahngeunsu/springbootdeveloper/config/jwt/JwtFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter09_modified/src/test/java/me/ahngeunsu/springbootdeveloper/config/jwt/TokenProviderTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter09_modified/src/test/java/me/ahngeunsu/springbootdeveloper/controller/TokenApiControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/OAuth2SuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/TokenAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/WebOAuthSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/jwt/JwtProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/jwt/TokenProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/oauth/OAuth2AuthorizationRequestBasedOnCookieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/oauth/OAuth2UserCustomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/controller/BlogApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/controller/BlogViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/controller/ExampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/controller/TokenApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/controller/UserApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/controller/UserViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/domain/RefreshToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/AddArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/AddUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleListViewResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleViewResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/CreateAccessTokenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/CreateAccessTokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/dto/UpdateArticleRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/RefreshTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/UserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/util/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/SpringSecurityFilterChain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/static/js/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/articleList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/newArticle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/test/java/springbootdeveloper/config/jwt/JwtFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/test/java/springbootdeveloper/config/jwt/TokenProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/test/java/springbootdeveloper/controller/TokenApiControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" afterDir="false" />
