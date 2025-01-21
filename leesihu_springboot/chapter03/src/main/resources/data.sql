@@ -1,1 +1,0 @@
-INSERT INTO member (id, name) VALUES (1, 'name 1')

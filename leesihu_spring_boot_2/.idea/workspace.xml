@@ -140,7 +140,6 @@
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/TestController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/OAuth2SuccessHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/TokenAuthenticationFilter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/WebOAuthSecurityConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/config/WebSecurityConfig.java" afterDir="false" />
@@ -174,21 +173,21 @@
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/UserDetailService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/service/UserService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/java/me/ahngeunsu/springbootdeveloper/util/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/SpringSecurityFilterChain.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/data.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/static/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/static/js/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/static/js/token.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/article.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/articleList.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/example.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/newArticle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/oauthLogin.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/main/resources/templates/signup.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/test/java/springbootdeveloper/config/jwt/JwtFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/test/java/springbootdeveloper/config/jwt/TokenProviderTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web_development_springboot/chapter10/src/test/java/springbootdeveloper/controller/TokenApiControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/domain/Article.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/web_development_springboot/chapter06/src/main/java/me/ahngeunsu/springbootdeveloper/dto/ArticleResponse.java" afterDir="false" />
@@ -368,16 +367,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/leesihu/leesihu_spring_boot_2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/leesihu",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
